@@ -39,7 +39,7 @@
             <version>3.0.0</version>
         </dependency>-->
 
-        <!--Долго разбирался с ошибкой "HTTP Status 500 – Internal Server Error", пока не добавил следующую зависимость, которую нашёл её на stackiverflow:
+        <!--Долго разбирался с ошибкой "HTTP Status 500 – Internal Server Error", пока не добавил следующую зависимость, которую нашёл на stackoverflow:
         https://ru.stackoverflow.com/questions/1303918/%d0%9f%d0%be%d1%87%d0%b5%d0%bc%d1%83-%d0%bd%d0%b5-%d0%bf%d0%be%d0%b4%d0%ba%d0%bb%d1%8e%d1%87%d0%b0%d0%b5%d1%82%d1%81%d1%8f-%d0%b1%d0%b8%d0%b1%d0%bb%d0%b8%d0%be%d1%82%d0%b5%d0%ba%d0%b0-jstl/1304088#1304088-->
         <dependency>
             <groupId>org.glassfish.web</groupId>
